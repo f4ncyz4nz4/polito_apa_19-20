@@ -1,0 +1,29 @@
+10
+A
+B
+C
+D
+E
+F
+G
+H
+I
+L
+A B 1
+A L 1
+A C 1
+A D 1
+L B 1
+L I 1
+I B 1
+B C 1
+B D 1
+B E 1
+C D 1
+D G 1
+E G 1
+E H 1
+E F 1
+G H 1
+G F 1
+F H 1
