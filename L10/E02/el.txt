@@ -1,0 +1,9 @@
+8
+back_layout_quad_twist 2 0 0 1 1 12.0 10
+rondata 0 1 0 0 0 0.2 1
+arabian 2 0 1 0 0 2.5 4
+front_tuck 1 1 1 0 0 1.75 3
+double_back_layout 2 0 0 1 1 4.0 7
+triple_front_tuck 1 1 1 1 1 6.5 8
+ribaltata_a_2 0 1 1 0 0 0.25 2
+back_handspring 0 0 0 0 0 0.4 2
